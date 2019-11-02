@@ -1,0 +1,22 @@
+table, td, th {
+    border: 1px solid black;
+}
+
+body {
+    background-color: #FDF5E6;
+    font-family: 'Times New Roman', Times, serif;
+    width: 50%;
+}
+    
+form {
+    line-height: 30px;
+}
+
+h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: purple;
+}
+ 
+.fhead {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}    
